@@ -4,10 +4,15 @@ This script is designed to format Python files using various tools such as `isor
 
 ## Installation
 
-#TBD
+To use this script, follow the steps below:
 
 ```bash
-git clone
+git clone https://github.com/HHristov22/tests_formatter.git
+```
+Ensure that you have the required dependencies installed. The script relies on isort, black, and flake8 for formatting and linting. If you don't have them installed, you can install them using pip:
+
+```bash
+pip install isort black flake8
 ```
 ## Usage
 
